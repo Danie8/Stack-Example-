@@ -1,0 +1,20 @@
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\bin\Debug\Indices.exe.config
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\bin\Debug\Indices.exe
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\bin\Debug\Indices.pdb
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.csprojAssemblyReference.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.Form1.resources
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.Properties.Resources.resources
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.csproj.GenerateResource.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.csproj.CoreCompileInputs.cache
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.exe
+C:\Users\gamed\OneDrive\Escritorio\Pendientes\Indices\obj\Debug\Indices.pdb
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\bin\Debug\Indices.exe.config
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\bin\Debug\Indices.exe
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\bin\Debug\Indices.pdb
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.csprojAssemblyReference.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.Form1.resources
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.Properties.Resources.resources
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.csproj.GenerateResource.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.csproj.CoreCompileInputs.cache
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.exe
+C:\Users\gamed\OneDrive\Escritorio\Facultad\Técnicas de Programación\Pendientes\Indices\obj\Debug\Indices.pdb
